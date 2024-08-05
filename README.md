@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vanshkumark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshkumark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanjani-vanshkumar-154a74215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanjani-vanshkumar-154a74215" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vanshkumar-kanjani-154a74215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanjani-vanshkumar-154a74215" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.vk_2131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.vk_2131/" height="30" width="40" /></a>
 <a href="https://medium.com/@vanshkumarkanjani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshkumarkanjani" height="30" width="40" /></a>
 </p>
